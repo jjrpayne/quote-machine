@@ -1,3 +1,9 @@
+# Quote Machine
+
+This is a random quote machine created for a [freeCodeCamp frontend libraries project](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine).
+
+Currently a WIP.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
