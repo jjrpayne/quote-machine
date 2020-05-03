@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import './App.css';
-import Button from './components/Button';
+import QuoteMachine from './components/QuoteMachine';
 
 class App extends Component {
 	constructor(props) {
@@ -42,8 +42,7 @@ class App extends Component {
 	render() { 
 		return (
     		<div className="App" id="quote-box">
-				{this.selectedQuote() ? `"${this.selectedQuote().quote}" - ${this.selectedQuote().author}` : ''}
-				<Button buttonDisplayName="Next Quote" clickHandler={this.assignQuoteIndex}/>
+				<QuoteMachine selectedQuote={this.selectedQuote()} assignQuoteIndex={this.assignQuoteIndex} />
     		</div>
 		);
 	}
