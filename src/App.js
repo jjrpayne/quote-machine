@@ -2,12 +2,14 @@ import React, {Component} from 'react';
 import QuoteMachine from './components/QuoteMachine';
 import 'typeface-roboto';
 import {Grid, withStyles} from '@material-ui/core';
+import deepPurple from '@material-ui/core/colors/deepPurple';
 
 const styles = {
 	container: {
 		display: 'flex',
 		height: '100vh',
-		alignItems: 'center'
+		alignItems: 'center',
+		backgroundColor: deepPurple[500]
 	}
 };
 
