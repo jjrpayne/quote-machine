@@ -2,7 +2,9 @@
 
 This is a random quote machine created for a [freeCodeCamp frontend libraries project](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine).
 
-Currently a WIP.
+This site uses React and [Material-ui](https://material-ui.com/) components.
+
+The quote machien can be viewed at https://jjrpayne-quote-machine.netlify.app/.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
