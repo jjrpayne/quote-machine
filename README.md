@@ -4,7 +4,7 @@ This is a random quote machine created for a [freeCodeCamp frontend libraries pr
 
 This site uses React and [Material-ui](https://material-ui.com/) components.
 
-The quote machien can be viewed at https://jjrpayne-quote-machine.netlify.app/.
+The quote machine can be viewed at https://jjrpayne-quote-machine.netlify.app/.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
